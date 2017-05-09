@@ -11,7 +11,7 @@ body {
   color: #777777;
 }
 .text-primary {
-  color: #572061; 
+  color: #91CA00; 
 }  /* que hacemos*/
 p {
   font-size: 14px;
@@ -29,7 +29,7 @@ a.active {
   outline: none;
 }
 a {
-  color: #fed136;
+  color: #91CA00;
 }
 a:hover,
 a:focus,
@@ -239,7 +239,7 @@ header {
   color: white;
 }
 header .intro-text {
-  padding-top: 100px;
+  padding-top: 165px;
   padding-bottom: 50px;
 }
 header .intro-text .intro-lead-in {
@@ -259,7 +259,7 @@ header .intro-text .intro-heading {
 }
 @media (min-width: 768px) {
   header .intro-text {
-    padding-top: 300px;
+    padding-top: 25 0px;
     padding-bottom: 200px;
   }
   header .intro-text .intro-lead-in {
