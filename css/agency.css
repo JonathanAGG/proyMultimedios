@@ -42,7 +42,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Montserrat", "Open Sans Condensed", "Helvetica, Arial", "sans-serif;
   text-transform: uppercase;
   font-weight: 700;
 }
@@ -306,6 +306,7 @@ section h3.section-subheading {
   margin: 0 0 15px;
   right: 0;
 }
+
 #trabajarConNosotros .portfolio-item .portfolio-link {
   display: block;
   position: relative;
