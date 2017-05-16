@@ -245,6 +245,7 @@ fieldset[disabled] .btn-xl.active {
         -webkit-transition: all 0.3s;
         -moz-transition: all 0.3s;
         transition: all 0.3s;
+        margin-top: -20px;
     }
     .navbar-custom .navbar-nav>.active>a {
         border-radius: 3px;
