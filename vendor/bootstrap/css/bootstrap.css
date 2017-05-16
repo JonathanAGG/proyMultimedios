@@ -2023,8 +2023,8 @@ pre code {
     margin: -71px 61px 70px 8px;
 }
 
-#secciones {
-    margin-right: -15px;
+.row #secciones {
+    margin-right: -81px;
     margin-left: -15px;
 }
 
